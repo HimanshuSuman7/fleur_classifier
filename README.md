@@ -1,2 +1,2 @@
 # fleur_classifier
- flower classifier using transfer learning
+ Flower classifier using pre-trained vgg16 model as a fixed feature extractor for the images.
